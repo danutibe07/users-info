@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/danutibe07/users-info/static/css/main.75923807.css",
+    "main.js": "/danutibe07/users-info/static/js/main.d95079f4.js",
+    "index.html": "/danutibe07/users-info/index.html",
+    "main.75923807.css.map": "/danutibe07/users-info/static/css/main.75923807.css.map",
+    "main.d95079f4.js.map": "/danutibe07/users-info/static/js/main.d95079f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75923807.css",
+    "static/js/main.d95079f4.js"
+  ]
+}
